@@ -4,7 +4,7 @@ currentVal = "0";
 valueList = []; //save up to two value here once two operate them
 
 let inp = document.getElementById("inputText");
-
+//test
 // All funcitons needed
 
 function initializeCalc() {
